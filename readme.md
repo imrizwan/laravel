@@ -10,3 +10,6 @@
 ## About this project
 
 Basic website using controller, views, migrations, assets compilition with Laravel Mix.
+
+1. Basic Website
+2. Todo List
